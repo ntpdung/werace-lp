@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../fonts/Montserrat-Bold.eot") format("embedded-opentype");
+  font-weight: bold; }
+
+.white-txt-ahihi {
+  color: #000; }
+
+.header-sec {
+  background-color: #121111; }
+
+ul.top-menu li {
+  padding: 15px 30px; }
+  ul.top-menu li a {
+    font-family: "Montserrat-Bold";
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none; }
